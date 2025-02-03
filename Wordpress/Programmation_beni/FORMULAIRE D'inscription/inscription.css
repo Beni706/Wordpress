@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+body{
+    background-color: #17a2b8;
+    display: flex;
+/*Centrer du vers le bas*/
+    align-items: center;
+    height:100vh;
+/* Centrer de la gauche vers la droite*/
+    justify-content: center;
+
+/*From c'est pour la forme*/
+}
+from{
+    display: flex;
+/*Ici c'est pour regroupé le tout en block*/
+    flex-direction:column;
+    background-color: #fcffff;
+/*La marge entre les les ecrits et où la couleur blance s'arrête*/
+    padding: 10px;
+/*arrondire les angle*/
+    border-radius: 6px;
+    box-shadow: 0 0 10px rga(0,0,0,0,2)
+}
+h4 {
+text-align: center;
+font-size: 20px;
+}
+
+/*hr c'est la ligne qui sépare Inscription avec le Nom(s)*/
+hr {
+/* La marge entre le ligne et le nom(s)*/
+    margin: 10px 0;
+    background-color: #ccc;
+/*l'epaisseur de la ligne*/
+    border: 0;
+    height:1px;
+    width: 100%;
+}
+
+label {
+    margin-bottom:6px;
+}
+input {
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 6px;
+    outline: 0;
+    border: 1px solid rgba(0,0,0,0,4)
+    
+}
+/*focus c'est comment doit se comporter le input quant on clique*/
+input:focus {
+/*quant on click sur l'ibput la bordure devient bleue*/
+    border: 1px solid#17a2b8;
+}
+input[type="submit"]{
+    margin-top: 15px;
+    background-color: #17a2b8;
+    color:#fff;
+    border: 1px solid #17a2b8;
+    cursor: pointer;
+}
+
+p {
+    text-align: center;
+    margin: 5px 0;
+    font-size: 14px;
+}
+p a {
+    text-decoration: 0;
+    color:#17a2b8;
+}
+p a:hover {
+    text-decoration: underline;
+}

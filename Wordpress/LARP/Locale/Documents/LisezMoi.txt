@@ -1,0 +1,234 @@
+*******************************************************************
+
+ATTENTION ! WARNING ! ACHTUNG ! PRECAUCION ! ATTENZIONE ! 
+
+À LIRE EN DÉTAIL ET ÉVENTUELLEMENT À IMPRIMER
+
+1. Identification du logiciel
+2. Installation
+3. Désinstallation
+4. Configuration minimale
+5. Problèmes connus
+6. Coordonnées de l'auteur
+7. Mises à jour
+8. LARP, c'est quoi ?
+
+*******************************************************************
+
+1. IDENTIFICATION DU LOGICIEL
+
+TITRE:   LARP
+VERSION: 3.0
+
+L'acronyme LARP vient de « Logiciel d'Algorithmes et de Résolution
+de Problèmes »
+
+*******************************************************************
+
+2. INSTALLATION
+
+LARP est distribué sous forme d'un programme d'installation
+exécutable (LarpFrSetup.exe). Pour installer LARP sur votre 
+ordinateur, copiez le fichier LarpFrSetup.exe dans un répertoire 
+temporaire, puis exécutez le programme.
+
+Suite à l'affichage de la licence d'utilisation et au contenu
+du fichier LisezMoi.txt, le programme d'installation collecte 
+diverses informations requises à l'installation :
+
+  a)	Quelle version de LARP installer : la version gratuiciel
+	(c.à.d. gratuite) ou la version partagiciel (c.à.d. 
+	devant être achetée).
+
+  b)	Le répertoire de destination : vous devez spécifier le
+	nom du répertoire où seront installés LARP et ses 
+	fichiers connexes. Il est recommandé d'installer LARP
+	dans le répertoire proposé. Vous pouvez cependant 
+	sélectionner un répertoire alternatif via le bouton
+	"Parcourir...".
+
+  c)	Sélection du dossier de menu : par défaut, le programme
+	d'installation va créer dans les menus de votre 
+	ordinateur trois raccourcis (chemins d'accès) à 
+	l'exécutable LARP:
+
+	1) 	dans le menu Démarrer, sous la rubrique 
+		Programmes, un dossier intitulé LARP contient 
+		des raccourcis à LARP et ses fichiers connexes;
+	2)	sur le Bureau, un nouvel icône nommé permet de 
+		démarrer LARP;
+	3)	dans la zone de lancement rapide de la barre de
+		tâches, un nouvel icône nommé permet de 
+		démarrer LARP.
+
+	Vous pouvez désactiver la création de ces raccourcis
+	en ne cochant que ceux désirés.
+
+Une fois ces informations collectées, le programme 
+d'installation demande une dernière confirmation puis procède 
+à l'installation de LARP sur votre ordinateur. Vous pouvez en 
+tout temps annuler l'installation de LARP en cliquant sur le
+bouton "Annuler" retrouvé au bas de chaque fenêtre du programme
+d'installation.
+
+*******************************************************************
+
+3. DÉINSTALLATION
+
+Le programme d'installation de LARP installe un script de
+désinstallation sur votre ordinateur. Vous pouvez exécuter ce
+script 
+
+	a) via le menu Démarrer -> Programmes -> LARP
+
+	b) via l'outil "Ajout/suppression de programmes" du
+	   panneau de contrôle de Windows*.
+
+Le script de désinstallation élimine tous les fichiers associés
+à LARP sur votre ordinateur, sauf les fichiers projets créés 
+par les utilisateurs.
+
+*******************************************************************
+
+4. CONFIGURATION MINIMALE
+
+LARP requiert le système d'exploitation Windows* 9x/ME/NT/2000/XP.
+
+Pour plus de confort (mais ce n'est pas obligatoire), le 
+matériel minimal suivant est conseillé : 
+
+	un processeur Pentium** II ou équivalent 
+	une résolution écran de 800x600
+
+*******************************************************************
+
+5. PROBLÈMES CONNUS
+
+Voici une liste des bogues connus qui n'ont pas encore été 
+corrigés :
+
+#001 -	Une chaîne de caractères ne peut pas excéder 256 caractères,
+	mais LARP permet à un pseudo-code de définir une constante
+	plus longue que 256 caractères. Dans ce cas, LARP plante.
+
+Plusieurs corrections et/ou modifications ont été apportées à
+LARP depuis la distribution initiale. Pour connaître les détails
+de celles-ci, consultez le fichier Historique.txt distribué avec
+LARP (voir dans le répertoire où est installé LARP).
+
+*******************************************************************
+
+6. COORDONNÉES DE L'AUTEUR
+
+Pour tout problème, renseignements complémentaires, mouvement
+d'humeur, idées d'améliorations ou... compliments (!!!), 
+il est possible de me contacter : 
+
+Soit en m'envoyant un courrier personnel à ma résidence
+bureau : 
+		Marco Lavoie
+		1, Ave du Parc
+		Gatineau, Qc
+		Canada
+		J8Y 1G5
+
+Soit par courrier électronique : marco@marcolavoie.ca
+
+*******************************************************************
+
+7. MISES À JOUR
+
+Si vous avez acheté une licence pour la version partagiciel du 
+logiciel, les mises à jour vous sont envoyées gratuitement.
+
+LARP détecte automatiquement la disponibilité de nouvelles mises
+à jour, et sur autorisation de l'utilisateur les télécharge et
+les installe automatiquement. Pour plus d'information consultez 
+la documentation de LARP.
+
+Les utilisateurs disposant de la version gratuiciel de LARP ou ne 
+disposant pas d'un licence enregistrée de LARP en version 
+partagiciel peuvent télécharger la plus récente version du logiciel 
+à l'adresse http://larp.marcolavoie.ca.
+
+*******************************************************************
+
+8. LARP, C'EST QUOI ?
+
+BIENVENUE À BORD DE LA "ROLLS" DES LOGICIELS D'AIDE À 
+L'ENSEIGNEMENT DE L'ALGORITHMIQUE !
+
+L'auteur, Marco Lavoie, professeur de programmation de niveau
+collégiale et formateur académique en mathématiques et 
+informatique vous remercie d'avoir choisi LARP (c) pour 
+l'enseignement de l'algorithmique.
+
+Le logiciel lui-même a été développé avec DELPHI (Borland) 
+et fonctionne sur toute machine PC compatible Pentium 
+(ou supérieur) sur laquelle est installé WINDOWS (Microsoft)
+version 95 ou supérieure.
+
+LARP est en fait un acronyme. Il vient de la compression de la 
+phrase «Logiciel d'Algorithmes et de Résolution de Problèmes». 
+LARP est un langage de programmation de pseudo-codes et 
+d'organigrammes permettant le prototypage rapide d'algorithmes. 
+
+L'avantage de LARP est que le programme est un langage 
+pseudo-code à syntaxe flexible et non un code source à compiler, 
+ce qui permet de formuler des algorithmes en un langage 
+semi-naturel plutôt que de devoir adhérer à une syntaxe rigide et 
+cryptique telle que celle des langages de programmation 
+traditionnels (C++, Pascal, Java, etc.).
+
+LARP offre aussi la possibilité d'employer des organigrammes 
+pour représenter des algorithmes. Un organigramme est facilement
+conçu à l'aide de la souris et de la technologie glisser-déposer.
+Une telle flexibilité du langage de programmation LARP facilite 
+ainsi la programmation en permettant de concevoir des algorithmes
+sans nécessiter une connaissance approfondie des langages de
+programmation.
+
+LARP offre un environnement de développement d'algorithmes simple 
+et convivial permettant à un utilisateur novice de se 
+familiariser rapidement avec le logiciel. L'utilisateur peut 
+ainsi consacrer ses énergies à programmer des algorithmes plutôt 
+qu'à se familiariser avec une interface complexe ou une syntaxe 
+de programmation aride.
+
+La flexibilité du langage de programmation LARP ainsi que la 
+convivialité de l'environnement de développement rend le logiciel 
+particulièrement propice à l'enseignement de la programmation. 
+L'enseignant peut exploiter le langage LARP pour présenter de 
+façon claire et concise les concepts de programmation tels les 
+conditions, les boucles et la modularité. En pratique, les 
+étudiants peuvent exploiter l'environnement de développement de 
+LARP pour implémenter et expérimenter les algorithmes présentés 
+par l'enseignant. En fait, LARP fut à l'origine développé par un 
+enseignant en informatique dans le but d'enseigner les concepts 
+de la programmation structurée.
+
+Afin de faciliter l'exploitation du langage dans un environnement 
+éducatif, LARP est doté d'un système d'aide contextuel présentant 
+la syntaxe du langage LARP sous une forme pédagogique. Ainsi, la 
+documentation en ligne permet à l'utilisateur non seulement 
+d'apprendre la syntaxe de LARP afin de programmer des algorithmes, 
+mais aussi d'apprendre à exploiter des notions de programmation 
+telles les variables et conteneurs, les structures 
+conditionnelles et répétitives, la modularité et le stockage de 
+données. Ces notions de programmation sont expliquées et 
+accompagnées d'exemples concrets facilitant leur compréhension.
+
+Le logiciel LARP est un outil pédagogique essentiel à 
+l'enseignement de la programmation. Que ce soit en apprentissage 
+autonome ou en classe, LARP rend l'apprentissage de la 
+programmation plus facile et agréable.
+ 
+*******************************************************************
+
+Québec (Canada) le 01/01/2008
+Marco Lavoie
+
+
+  *  Windows est une marque déposée de Microsoft Corp.
+  ** Pentium est une marque déposée de Intel.
+

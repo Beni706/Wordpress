@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Appreciation des moyennes</title>
+</head>
+
+<body>
+    <h2>APPRECIATION DES MOYENNES</h2>
+    <script>
+        const moyenne = prompt("entrez votre moyenne")
+        if (moyenne >= 0 && moyenne <=5.99) {
+            document.writeln("Très Faible")
+        } else if (moyenne >= 6 && moyenne <= 9.99) {
+            document.writeln("Faible")
+        } else if (moyenne >= 10 && moyenne <= 13.99){
+            document.writeln("Passable")
+        } else if (moyenne >= 14 && moyenne <= 16.99){
+            document.writeln("Bien")
+        } else if (moyenne >=17 && moyenne <= 20) {
+            document.writeln("Très bien")
+        } else {
+            document.writeln("La moyenne saisie n'est pas /20")
+        }
+    
+    </script>
+</body>
+</html>

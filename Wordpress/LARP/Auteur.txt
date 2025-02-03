@@ -1,0 +1,12 @@
+Nom..... :Lavoie
+Prenom.. :Marco
+Adresse. :1, Ave du Parc
+Ville... :Gatineau
+Province :Quebec
+Code pos :J8Y 1G5
+Pays.... :Canada
+Email... :marco@marcolavoie.ca
+Url..... :http://www.marcolavoie.ca
+Libre... :
+Libre... :
+Libre... :

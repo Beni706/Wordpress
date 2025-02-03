@@ -1,0 +1,12 @@
+Nom..... :LARP
+Version. :3.00
+Theme... :Logiciel d'Algorithmes et de Résolution de Problèmes
+Type.... :Partagiciel
+Prix.... :14.99 USD
+Langue.. :Français
+Systeme. :Win9x/XP
+Config.. :Pentium
+Auteur.. :Marco Lavoie
+Install. :LarpFrSetup.exe
+Libre... :Logiciel d'enseignement de l'algorithmique et de 
+Libre... :la programmation structurée.

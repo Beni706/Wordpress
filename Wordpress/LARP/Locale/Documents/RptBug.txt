@@ -1,0 +1,38 @@
+LARP version 3.00
+=================
+
+Ce formulaire vous permet de rapporter au support technique de LARP
+
+	- un bogue, ou 
+	- un commentaire.
+
+Veuillez S.V.P. compléter le formulaire ci-dessous. Ceci ne vous prendra que quelques minutes et permettra au support technique d'améliorer LARP pour les distributions ultérieures. Si vous fournissez une adresse de courrier électronique, un avis sera automatiquement transmis à cette adresse lors de la distribution d'une nouvelle version de LARP.
+
+#####################################################
+
+>>> VOTRE NOM :
+
+>>> VOTRE ADRESSE COURRIEL : 
+
+>>> EST-CE POUR RAPPORTER UN BOGUE OU UN COMMENTAIRE ?
+
+
+>>> VEUILLEZ DÉCRIRE LE BOGUE RENCONTRÉ OU ÉCRIRE
+>>> VOTRE COMMENTAIRE CI-DESSOUS :
+
+
+
+
+#####################################################
+
+NOTE IMPORTANTE
+---------------
+
+Un bogue dans LARP est défini comme étant une erreur de comportement du logiciel LARP, et non une erreur de logique dans le pseudo-code d'un utilisateur. Conséquemment, le support technique n'est pas dans l'obligation de répondre aux rapports de bogues portant sur des erreurs de logique dans les pseudo-codes d'utilisateurs. 
+
+L'objectif d'un rapport de bogue est d'indiquer à l'auteur et lui transmettre de l'information permettant de corriger les erreurs de programmation dans le logiciel LARP, et ce afin d'offrir aux utilisateurs un logiciel robuste, performant et facile d'utilisation. Malheureusement, l'équipe du support technique n'a ni le temps ni les ressources pour aider les utilisateurs à concevoir, déboguer et/ou corriger leurs algorithmes.
+
+L'auteur vous remercie pour votre support.
+
+Marco Lavoie    01/01/2008
+

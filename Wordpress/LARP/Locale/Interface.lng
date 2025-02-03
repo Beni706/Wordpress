@@ -1,0 +1,17 @@
+[Translations]
+
+[Messages]
+
+Basic passwords error = Codes d'accès primaires invalides
+Close SparKey error = Erreur de fermeture de clé SparKey
+Invalid dongle configuration = Configuration de clé invalide
+Invalid key format = Format du code d'accès invalide
+Open LogKey error = Erreur à l'ouverture de clé LogKey
+Open SparKey error = Erreur à l'ouverture de clé SparKey
+Read data error = Erreur de lecture de données
+Read ID error = Erreur de lecture de données d'identification
+Read length or Start address error = Erreur de lecture - nombre d'octets ou adresse invalide
+SparKey not found = Clé SparKey introuvable
+Unknown error code = Erreur inconnue
+updates.inf = http://larp.marcolavoie.ca/fr/Updates/updates.inf
+

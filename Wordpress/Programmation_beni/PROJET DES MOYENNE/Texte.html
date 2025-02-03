@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<script>
+  function somme() {
+    let a = parseInt(document.getElementById("n1").value)
+    let b = parseInt(document.getElementById("n2").value)
+        document.getElementById("n3").value=a+b
+  }
+</script>
+<body>
+    <form action="">
+        <div class="nombre">
+            <div>
+                <label>Premier Nombre</label>
+                <input type ="text" id="n1">
+            </div>
+            <div>
+                <label>Deuxieme Nombre</label>
+                <input type ="text" id="n2">
+            </div>
+        </div>
+        <input type="button" value="=" onclick="somme()">
+        <label>Resultat</label>
+        <input type="text" id ="n3">
+</form>
+</body>
+</html>

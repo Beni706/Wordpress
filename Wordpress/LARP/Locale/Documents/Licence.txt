@@ -1,0 +1,48 @@
+LARP - Logiciel d'Algorithmes et Résolution de Problèmes
+
+Copyright © 2004-2008 Marco Lavoie
+
+»»»»»»»»»» CONTRAT DE LICENCE UTILISATEUR FINAL ««««««««««
+
+Le logiciel (LARP) est distribué en version gratuiciel (gratuite) et partagiciel (non gratuite). L'utilisateur sélectionne la version à installer lors du processus d'installation du logiciel. Les deux versions sont identiques à l'exception des outils de prévention du plagiat qui sont restreints à la version partagiciel. Consultez le guide d'utilisation de LARP (ou l'aide en ligne) pour plus d'information à ce sujet.
+Les termes de la licence ci-dessous sont applicables aux deux versions du logiciel à l'exception de la première section qui est spécifique à chaque version.
+
+VERSION GRATUICIEL
+
+Le logiciel est distribué comme gratuiciel, ce qui signifie qu'il peut être utilisé sans frais ni obligation d'enregistrement. Le gratuiciel (en anglais : freeware) consiste pour un auteur à mettre en libre circulation une version complète ou partiellement bridée de son logiciel afin de permettre au public de l'exploiter sans s'engager financièrement.
+Voici la licence d'utilisation permettant d'exploiter le gratuiciel. Veuillez lire attentivement ce qui suit avant d'utiliser le gratuiciel. L'utilisation du gratuiciel indique que vous acceptez tous les termes de cette licence.
+
+VERSION PARTAGICIEL
+
+Le logiciel est un partagiciel, ce qui implique qu'il n'est pas gratuit. Ceci signifie que, conformément aux termes énoncés ci-dessous, vous pouvez l'utiliser gratuitement, dans un but d'évaluation, durant une période de 120 jours à compter de son installation. Si vous souhaitez continuer à l'utiliser à l'issu de cette période, vous devrez vous enregistrer auprès de l'auteur (Marco Lavoie). Dans le cas contraire, vous devrez supprimer ce logiciel de votre ordinateur.
+Voici la licence d'utilisation permettant d'évaluer le partagiciel. Veuillez lire attentivement ce qui suit avant d'utiliser le partagiciel. L'utilisation du partagiciel indique que vous acceptez tous les termes de cette licence.
+
+DISTRIBUTION
+
+Vous être autorisé à dupliquer le programme d'évaluation (non enregistré) et à le distribuer sans aucune modification à quiconque par des moyens électroniques (Internet, BBS's, CD, etc.).
+Vous ne devez demander aucun frais de copie, aucun droit de distribution autre qu'une participation raisonnable relative à vos frais (ex: packaging). Vous ne devez en aucun cas mentionner que vous vendez le logiciel lui-même.
+Vous ne devez, en aucun cas, demander une quelconque rétribution pour l'utilisation du logiciel lui-même. La distribution de la version d'évaluation ne peut engager aucune compensation d'aucune sorte de la part de l'auteur.
+
+VERSION ENREGISTRÉE
+
+Une copie enregistrée de ce logiciel ne peut être utilisée que par une seule et même personne sur un ou plusieurs ordinateurs. Vous pouvez accéder à ce logiciel à travers un réseau à partir du moment où vous avez obtenu autant de licences individuelles que d'ordinateurs susceptibles d'exécuter le programme sur le réseau. Par exemple, si six postes différents peuvent accéder au logiciel, vous avez besoin d'une licence pour six utilisateurs, qu'ils utilisent le logiciel à différents moments ou de manière simultanée.
+
+RESTRICTIONS D'UTILISATION
+
+Vous ne devez pas altérer ce logiciel en aucune façon, ni ajouter, supprimer ou changer un quelconque message ou une quelconque boîte de dialogue.
+Vous ne devez pas décompiler, faire du « reverse engineering », désassembler ou transformer ce logiciel en un quelconque code source. Vous ne devez pas modifier, prêter, louer ou vendre ce logiciel.
+Vous ne devez pas publier ou distribuer des algorithmes ou utilitaires permettant de générer des codes d'enregistrement, ni publier d'information à propos de ces codes, ni distribuer ou publier ces codes d'enregistrement sans une autorisation écrite de l'auteur.
+
+
+RESTRICTIONS DE GARANTIE
+
+Ce logiciel est fourni « tel que » et sans garantie quant à l'exécution, aux performances, à la valeur marchande ou à toutes les autres garanties, qu'elles soient exprimées ou implicites. En raison des divers environnements matériels et logiciels dans lesquels ce programme peut être installé, aucune garantie d'intégration ou de conformité n'est offerte. La bonne pratique informatique dicte que tout nouveau logiciel doit être complètement testé par l'utilisateur avec des données non critiques avant de l'exploiter avec des données critiques. L'utilisateur assume le risque d'utiliser le logiciel. La responsabilité du vendeur est limitée exclusivement au remplacement du produit ou au remboursement du prix d'achat du logiciel.
+
+COPYRIGHT
+
+Ce produit est Copyright © 2004-2007 Marco Lavoie.
+Il est protégé par la loi canadienne relative aux droits d'auteurs et par les conventions internationales. Vous reconnaissez qu'aucun titre de propriété intellectuelle de ce logiciel ne vous est transféré. Vous reconnaissez en outre que le titre et les pleins droits de ce logiciel demeurent la propriété exclusive de l'auteur, et que vous n'acquérez aucun droit autres que ceux expressément spécifiés dans cet accord de licence.
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»«««««««««««««««««««««««««««««
+
+MARCO LAVOIE, 01 janvier 2008

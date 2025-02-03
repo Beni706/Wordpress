@@ -1,0 +1,61 @@
+HISTORIQUE DES MODIFICATIONS AU LOGICIEL
+
+  Ce fichier donne une description de l'historique des 
+  corrections et/ou modifications apportées à LARP depuis la 
+  première version.
+
+*******************************************************************
+
+DATE:   01 Janvier 2008
+TYPE:   Distribution
+DESC:   Version 3.00 (beta) de LARP distribuée publiquement. Cette
+        version corrige divers bogues liés aux organigramme et
+        intègre l'exécution pas à pas et ses outils de déboguage.
+        C'est aussi la première distribution du logiciel en version
+        gratuiciel.
+STATUT: Complétée
+
+*******************************************************************
+
+DATE:   01 septembre 2005
+TYPE:   Distribution
+DESC:   Version 2.00 (beta) de LARP distribuée publiquement. Cette
+        version est la première supportant les organigrammes.
+STATUT: Complétée
+
+*******************************************************************
+
+DATE:   13 juin 2005
+TYPE:   Distribution
+DESC:   Documentation de LARP maintenant disponible en deux 
+        formats : aide en ligne contextuel accessible via les menus 
+        de LARP, et guide d'utilisation en format Acrobat PDF.
+STATUT: Complétée
+
+*******************************************************************
+
+DATE:   01 février 2005
+TYPE:   Information
+DESC:   LARP adhère aux principes de distribution de l'AFAS 
+        (Association Française des Auteurs de Shareware). 
+STATUT: Complétée
+
+*******************************************************************
+
+DATE:   15 novembre 2004
+TYPE:   Distribution
+DESC:   Première version (1.20) de LARP distribuée publiquement.
+STATUT: Complétée
+
+*******************************************************************
+
+DATE:   01 septembre 2003
+TYPE:   Information
+DESC:   Première version (1.00b) de LARP en phase de testing.
+STATUT: Complétée
+
+*******************************************************************
+
+Québec (Canada) le 01/01/2008
+Marco Lavoie
+

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>2.01</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>PADGen 2.0.1.22 http://www.padgen.org</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>Marco Lavoie</Company_Name>
+		<Address_1>1, Ave du Parc</Address_1>
+		<Address_2 />
+		<City_Town>Gatineau</City_Town>
+		<State_Province>Quebec</State_Province>
+		<Zip_Postal_Code>J8Y 1G5</Zip_Postal_Code>
+		<Country>Canada</Country>
+		<Company_WebSite_URL>http://www.marcolavoie.ca</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>Marco</Author_First_Name>
+			<Author_Last_Name>Lavoie</Author_Last_Name>
+			<Author_Email>info@marcolavoie.ca</Author_Email>
+			<Contact_First_Name>Marco</Contact_First_Name>
+			<Contact_Last_Name>Lavoie</Contact_Last_Name>
+			<Contact_Email>info@marcolavoie.ca</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>larp@marcolavoie.ca</Sales_Email>
+			<Support_Email>larp@marcolavoie.ca</Support_Email>
+			<General_Email>larp@marcolavoie.ca</General_Email>
+			<Sales_Phone />
+			<Support_Phone />
+			<General_Phone />
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>LARP</Program_Name>
+		<Program_Version>2.00</Program_Version>
+		<Program_Release_Month>08</Program_Release_Month>
+		<Program_Release_Day>28</Program_Release_Day>
+		<Program_Release_Year>2006</Program_Release_Year>
+		<Program_Cost_Dollars>14.99</Program_Cost_Dollars>
+		<Program_Cost_Other_Code />
+		<Program_Cost_Other />
+		<Program_Type>Shareware</Program_Type>
+		<Program_Release_Status>Major Update</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Win95,Win98,WinME,WinNT 3.x,WinNT 4.x,Windows2000,WinXP,Windows2003</Program_OS_Support>
+		<Program_Language>English</Program_Language>
+		<Program_Change_Info>Now supports flowcharts</Program_Change_Info>
+		<Program_Specific_Category>Education</Program_Specific_Category>
+		<Program_Category_Class>Education::Teaching &amp; Training Tools</Program_Category_Class>
+		<Program_Categories>Programmation</Program_Categories>
+		<Program_System_Requirements>64 Mb RAM, 5 Mb disk space</Program_System_Requirements>
+		<Includes_JAVA_VM>N</Includes_JAVA_VM>
+		<Includes_VB_Runtime>N</Includes_VB_Runtime>
+		<Includes_DirectX>N</Includes_DirectX>
+		<File_Info>
+			<Filename_Versioned />
+			<Filename_Previous />
+			<Filename_Generic>LarpFr~1.exe</Filename_Generic>
+			<Filename_Long>LarpFrSetup.exe</Filename_Long>
+			<File_Size_Bytes>3500911</File_Size_Bytes>
+			<File_Size_K>3418</File_Size_K>
+			<File_Size_MB>3.34</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>Y</Has_Expire_Info>
+			<Expire_Count>120</Expire_Count>
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>algorithm programming pseudo-code flowchart education teaching</Keywords>
+			<Char_Desc_45>Educational programming environment.</Char_Desc_45>
+			<Char_Desc_80>Programming environment for teaching algorithmics.</Char_Desc_80>
+			<Char_Desc_250>LARP is a programming language offering an intuitive syntax doubled with a comprehensible development environment. LARP is particularly suited for learning or teaching structured programming concepts and algorithms.</Char_Desc_250>
+			<Char_Desc_450>LARP is a programming language offering an intuitive, flexible and easy to learn syntax. This syntax allows to make use of structured programming concepts to build pseudo-code and flowchart based algorithms.
+LARP's development environment includes comprehensive programming functionalities, such as editing and compiling, which make the software particularly suited for teaching and learning structured programming and algorithm design.</Char_Desc_450>
+			<Char_Desc_2000>LARP is a programming language offering an intuitive and flexible syntax. The syntax allows to take advantage of structured programming concepts to build pseudo-code and flowchart based algorithms. Concepts covered include variables and containers, conditional and iterative structures, modularity and data storage.
+LARP's development environment includes comprehensive programming functionalities, such as editing, compiling and plagiarism prevention, which makes the software particularly suited for learning to program. Using LARP, novice programmers can focus on designing algorithms rather than mastering a difficult syntax in a harsh development environment.
+The ease-of-use of LARP's programming syntax and the conviviality of its development environment make the software particularly suited for teaching and learning structured programming and algorithm design. The programming language's simple yet complete syntax allows one to design and formulate structured algorithms as pseudo-code and/or flowchart, and subsequently use the development environment's compiler to execute and validate these algorithms. In fact, LARP was actually designed by a programming instructor and used in College level courses for teaching introductory algorithm design.
+LARP's development environment includes context sensitive help, online and printable, which describes in details the language syntax and the development environment functionalities. This documentation is presented in an instructive form, includes many examples and offers detailed explanations of related concepts such as binary coding and recursion. Both the students and their teacher will benefit from using the documentation to study algorithmic based problem solving.
+LARP is an essential educational software for teaching and learning structured programming and algorithm design. Its ease of use and functionalities make it the ideal tool for teaching students of all ages to program.</Char_Desc_2000>
+		</English>
+		<French>
+			<Keywords>algorithme pseudo-code organigramme programmation enseignement éducation</Keywords>
+			<Char_Desc_45>Environnement de programmation éducationnel.</Char_Desc_45>
+			<Char_Desc_80>Environnement de programmation pour l'enseignement de l'algorithmique.</Char_Desc_80>
+			<Char_Desc_250>LARP est un langage de programmation à  syntaxe flexible et intuitive, accompagné d'un environnement de développement simple et convivial. LARP est propice à  l'enseignement de l'algorithmique et des concepts de programmation structurée.</Char_Desc_250>
+			<Char_Desc_450>LARP est un langage de programmation à syntaxe semi-naturelle, flexible et intuitive. Le langage permet d'exploiter des concepts de programmation structurée pour développer des algorithmes sous forme pseudo-code et d'organigrammes.
+Doté d'un environnement de développement simple et convivial ainsi que d'un système d'aide contextuel riche, LARP est propice à  l'enseignement de la résolution de problèmes par l'algorithmique.</Char_Desc_450>
+			<Char_Desc_2000>LARP est un langage de programmation à syntaxe semi-naturelle, flexible et intuitive. Le langage permet d'exploiter des concepts de programmation structurée tels les variables et conteneurs, les structures conditionnelles et répétitives, la modularité et le stockage de données pour développer des algorithmes simples et complexes sous forme pseudo-code ou d'organigrammes. 
+Le logiciel est doté d'un environnement de développement simple et convivial permettant à un programmeur novice de se familiariser rapidement avec les outils de développement généralement exploités en conception de logiciels. L'utilisateur peut ainsi consacrer ses énergies à  apprendre l'algorithmique plutôt qu'à  maîtriser un interface complexe ou un langage de programmation ardu.
+La flexibilité du langage LARP ainsi que la convivialité de l'environnement de développement rend le logiciel propice à  l'enseignement de la programmation. La syntaxe pseudo-code LARP facilite l'apprentissage des concepts de programmation structurée. En pratique, les étudiants peuvent exploiter l'environnement de développement pour implanter et expérimenter des algorithmes présentés en classe. En fait, LARP fut à l'origine développé par un enseignant en informatique dans le but d'enseigner l'algorithmique.
+Afin de faciliter l'apprentissage du langage dans un environnement scolaire, LARP est doté d'un systàme d'aide contextuel présentant la syntaxe du langage LARP sous une forme pédagogique. Ainsi, la documentation en ligne permet à  l'étudiant d'apprendre rapidement à exploiter différentes notions de programmation afin de résoudre des problèmes concrets. Les notions de programmation sont expliquées clairement et accompagnées de multiples exemples facilitant leur compréhension.
+Le logiciel LARP est un outil pédagogique essentiel à l'enseignement de l'algorithmique et la programmation structurée. En apprentissage autonome ou en classe, LARP rend l'apprentissage de l'algorithmique facile et agréable.</Char_Desc_2000>
+		</French>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://www.larp.marcolavoie.ca</Application_Info_URL>
+			<Application_Order_URL>http://www.larp.marcolavoie.ca/fr/buy_fr.htm</Application_Order_URL>
+			<Application_Screenshot_URL>http://www.larp.marcolavoie.ca/fr/screenshots_fr.htm</Application_Screenshot_URL>
+			<Application_Icon_URL>http://www.larp.marcolavoie.ca/fr/Files/LarpIcon.gif</Application_Icon_URL>
+			<Application_XML_File_URL>http://www.larp.marcolavoie.ca/fr/Files/LarpFrPad.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://www.larp.marcolavoie.ca/fr/download_fr.htm</Primary_Download_URL>
+			<Secondary_Download_URL />
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions>Vous êtes autorisé à distribuer la version non enregistrée (i.e. d'évaluation) de ce logiciel et à le distribuer en autant qu'aucune altération électronique de quelque forme que ce soit n'y soit approtée (Internet, BBSs, CD, etc).
+
+À l'exception de frais raisonables relatifs à la manutention (ex: empaquetage),vous n'êtes pas autorisé à facturer pour la duplication ou la distribution de ce logiciel. Il est explicitement interdit de mentionner ou suggérer que vous vendez ce logiciel.
+
+Il est strictement interdit, sanségard aux circonstances, d'exiger toute compensation relative à l'utilisation de ce logiciel. La distribution de ce logiciel ne doit en aucune circonstance mentionner ou sous-entendre un protocole de support après-vente de la part de l'auteur.
+</Distribution_Permissions>
+		<EULA>VERSION PARTAGICIEL
+
+Le logiciel (LARP) est un partagiciel, ce qui implique qu'il n'est pas gratuit. Ceci signifie que, conformément aux termes énoncés ci-dessous, vous pouvez l'utiliser gratuitement, dans un but d'évaluation, durant une période de 120 jours à compter de son installation. Si vous souhaitez continuer à l'utiliser à l'issu de cette période, vous devrez vous enregistrer auprès de l'auteur (Marco Lavoie). Dans le cas contraire, vous devrez supprimer ce logiciel de votre ordinateur.
+
+DISTRIBUTION
+
+Vous être autorisé à dupliquer le programme d'évaluation (non enregistré) et à le distribuer sans aucune modification à quiconque par des moyens électroniques (Internet, BBS's, CD, etc.).
+Vous ne devez demander aucun frais de copie, aucun droit de distribution autre qu'une participation raisonnable relative à vos frais (ex: packaging). Vous ne devez en aucun cas mentionner que vous vendez le logiciel lui-même.
+Vous ne devez, en aucun cas, demander une quelconque rétribution pour l'utilisation du logiciel lui-même. La distribution de la version d'évaluation ne peut engager aucune compensation d'aucune sorte de la part de l'auteur.
+
+VERSION ENREGISTRÉE
+
+Une copie enregistrée de ce logiciel ne peut être utilisée que par une seule et même personne sur un ou plusieurs ordinateurs. Vous pouvez accéder à ce logiciel à travers un réseau à partir du moment où vous avez obtenu autant de licences individuelles que d'ordinateurs susceptibles d'exécuter le programme sur le réseau. Par exemple, si six postes différents peuvent accéder au logiciel, vous avez besoin d'une licence pour six utilisateurs, qu'ils utilisent le logiciel à différents moments ou de manière simultanée.
+
+Restrictions d'utilisation
+Vous ne devez pas altérer ce logiciel en aucune façon, ni ajouter, supprimer ou changer un quelconque message ou une quelconque boîte de dialogue.
+Vous ne devez pas décompiler, faire du « reverse engineering », désassembler ou transformer ce logiciel en un quelconque code source. Vous ne devez pas modifier, prêter, louer ou vendre ce logiciel.
+Vous ne devez pas publier ou distribuer des algorithmes ou utilitaires permettant de générer des codes d'enregistrement, ni publier d'information à propos de ces codes, ni distribuer ou publier ces codes d'enregistrement sans une autorisation écrite de l'auteur.
+
+RESTRICTIONS DE GARANTIE
+
+Ce logiciel est fourni « tel que » et sans garantie quant à l'exécution, aux performances, à la valeur marchande ou à toutes les autres garanties, qu'elles soient exprimées ou implicites. En raison des divers environnements matériels et logiciels dans lesquels ce programme peut être installé, aucune garantie d'intégration ou de conformité n'est offerte. La bonne pratique informatique dicte que tout nouveau logiciel doit être complètement testé par l'utilisateur avec des données non critiques avant de l'exploiter avec des données critiques. L'utilisateur assume le risque d'utiliser le logiciel. La responsabilité du vendeur est limitée exclusivement au remplacement du produit ou au remboursement du prix d'achat du logiciel.
+
+COPYRIGHT
+
+Ce produit est Copyright © 2004-2006 Marco Lavoie.
+Il est protégé par la loi canadienne relative aux droits d'auteurs et par les conventions internationales. Vous reconnaissez qu'aucun titre de propriété intellectuelle de ce logiciel ne vous est transféré. Vous reconnaissez en outre que le titre et les pleins droits de ce logiciel demeurent la propriété exclusive de l'auteur, et que vous n'acquérez aucun droit autres que ceux expressément spécifiés dans cet accord de licence.</EULA>
+	</Permissions>
+	<ASP>
+		<ASP_FORM>Y</ASP_FORM>
+		<ASP_Member>N</ASP_Member>
+		<ASP_Member_Number />
+	</ASP>
+</XML_DIZ_INFO>
